@@ -21,8 +21,10 @@ The program utilizes Selenium, BeautifulSoup and Pandas to do the following proc
 5. Save the data in a .csv file.
 6. Fill out the contact formulary and answer in the "message area" the following question:
 <br>
-<p align="center"><b>Why do you want to be part of the RDP team?<b></p>
+<p align="center"><b>Why do you want to be part of the RDP team?</b></p>
 <br>
-While also applying Good Programming Practices and Code Reusability
-  
-This is the final code.
+While also applying Good Programming Practices and Code Reusability on the project using OOP and Classes.
+<br>
+<br>
+
+**This is the final code!**
